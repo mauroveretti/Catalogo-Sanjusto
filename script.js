@@ -10,7 +10,7 @@ let productosData = []; // Aquí guardaremos la lista completa del JSON
 /**
  * 1. CARGA INICIAL DE DATOS
  */
-fetch('productos.json')
+fetch('productos.json?v=' + Date.now())
     .then(response => response.json())
     .then(productos => {
         productosData = productos;
@@ -112,4 +112,5 @@ function limpiarBuscador() {
 
 function resetearBotonesCategoria() {
     document.querySelectorAll('.btn-cat').forEach(btn => btn.classList.remove('active'));
+
 }
