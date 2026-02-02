@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera Oversize Black 'San Justo'",
+        "categoria": "remeras",
+        "imagen": "img/Remera-Oversize-Black-San-Justo.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Gorra Trucker Sector '26",
+        "categoria": "gorras",
+        "imagen": "img/Gorra-Trucker-Sector-26.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Buzo Hoodie Streetwear",
+        "categoria": "remeras",
+        "imagen": "img/Buzo-Hoodie-Streetwear.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Piluso Bordado Sector",
+        "categoria": "accesorios",
+        "imagen": "img/Piluso-Bordado-Sector.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Remera Boxy Fit White",
+        "categoria": "remeras",
+        "imagen": "img/Remera-Boxy-Fit-White.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Medias Urbanas Sector",
+        "categoria": "accesorios",
+        "imagen": "img/Medias-Urbanas-Sector.jpg"
+    }
+]
